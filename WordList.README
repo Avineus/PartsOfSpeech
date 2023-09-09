@@ -1,0 +1,5 @@
+
+Verbist is downloaded from 
+https://github.com/datmt/English-Words-Updated/blob/master/verbsList
+
+wget -c https://raw.githubusercontent.com/datmt/English-Words-Updated/master/verbsList
